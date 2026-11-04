@@ -1,0 +1,11 @@
+{
+  "version": "1.7.20",
+  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.7.20/FinexaPro_SCF_Elite_v1.7.20_Setup.exe",
+  "sha256": "c500413df24e27842b968c0c5ff4c61f5e3c8e9555d98df4eac2e664b19345ef",
+  "signature": "0861ffd3522a20c15d8b52c007fed96487ec0efac4adeef0b014ec349a1494f46832cef29e7d82828dbfcbaa153cf0828cdca66dd861bb36693ac0be9a97820b",
+  "notes": "• إصدار فاينكسا برو المحدّث 1.7.20.\n• تحسينات وتحديثات شاملة في الأداء واستقرار النظام والمزامنة.\n• تحديثات دورية متوافقة مع المعايير المحاسبية SCF.",
+  "notes_fr": "• Version mise à jour de Finexa Pro 1.7.20.\n• Améliorations globales des performances, stabilité et synchronisation.\n• Mises à jour conformes aux normes SCF.",
+  "notes_en": "• Finexa Pro updated release 1.7.20.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
+  "mandatory": false,
+  "min_schema": 0
+}
