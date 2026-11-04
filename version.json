@@ -1,11 +1,11 @@
 {
-  "version": "1.7.22",
-  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.7.22/FinexaPro_SCF_Elite_v1.7.22_Setup.exe",
-  "sha256": "8dd40fb90d47a55e54dc888f4a23bc5bb7b11341214f39566263097264064732",
-  "signature": "940499daab04e02aaaa200ccf7da1a36887f2f1cf7af6baa198f57292a73c6af179b1fa4681bd4949eb36046fa89115529b7f099012431d18c1883bb63384300",
-  "notes": "• إصدار فاينكسا برو المحدّث 1.7.22.\n• تحسينات وتحديثات شاملة في الأداء واستقرار النظام والمزامنة.\n• تحديثات دورية متوافقة مع المعايير المحاسبية SCF.",
-  "notes_fr": "• Version mise à jour de Finexa Pro 1.7.22.\n• Améliorations globales des performances, stabilité et synchronisation.\n• Mises à jour conformes aux normes SCF.",
-  "notes_en": "• Finexa Pro updated release 1.7.22.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
-  "mandatory": false,
+  "version": "1.7.23",
+  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.7.23/FinexaPro_SCF_Elite_v1.7.23_Setup.exe",
+  "sha256": "74a1bb2878823cb207afc93bb0c41e4b32ca3ea887a10ca8e45c2eb3312bbdf4",
+  "signature": "ab1b1ebc3b86fe47471951680061731001381ada4875944c2aac980727e693e1b71d69e0178417a48a4eb8b1b72f2aeff6c46588775c0b911e171f2490ad670a",
+  "notes": "تحديث أمني وإداري شامل v1.7.23: دمج محرك المسح الذكي للفواتير المستقل فائق السرعة والأمان، وتطهير جذري لكافة الملفات والمسودات القديمة.",
+  "notes_fr": "Mise a jour de securite v1.7.23: Integration du moteur OCR autonome et epuration integrale des anciens modeles.",
+  "notes_en": "• Finexa Pro updated release 1.7.23.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
+  "mandatory": true,
   "min_schema": 0
 }
