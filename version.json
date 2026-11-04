@@ -1,11 +1,11 @@
 {
-  "version": "1.7.23",
-  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.7.23/FinexaPro_SCF_Elite_v1.7.23_Setup.exe",
-  "sha256": "6fa2bcd4a19921e7b4fd282da87a30cdce9c8970555d8be814c0392c0ed54c28",
-  "signature": "2e3c52ff4b27f0b222c8a485497eb623a282dbfa75687e680ea47b568f0995015576c93c8868b8220b1efa409e0e18e76abb598b0a68e18794c5985015d0fb06",
-  "notes": "تحديث أمني وإداري شامل v1.7.23: تسريع محرك المسح الذكي للفواتير (Standalone Native OCR) للعمل الفوري والسلس على كافة الأجهزة الضعيفة والمتوسطة بدون استهلاك للملفات المؤقتة.",
-  "notes_fr": "Mise a jour de performance et securite v1.7.23: Acceleration du moteur OCR pour un fonctionnement fluide sur toutes configurations.",
-  "notes_en": "• Finexa Pro updated release 1.7.23.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
+  "version": "1.8.23",
+  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.23/FinexaPro_SCF_Elite_v1.8.23_Setup.exe",
+  "sha256": "d1b4d0310ac19fc66c2eedb5dc3169d24f35d54219b0e8460060f5fe4078d171",
+  "signature": "75bd797f74d78c0015fd7c4a9a5165f205284f0ce81056724874c7796e5e2e14b8861f68663f69d26ef79a66cf78e2ffaaf76e04d4612cc918783aa944e91b07",
+  "notes": "إطلاق الإصدار الرسمي الرئيسي v1.8.23: دمج محرك المسح الذكي الفائق للفواتير (High-Speed Standalone Native OCR)، مع المعالجة الفورية المباشرة والتطهير الرقمي الشامل.",
+  "notes_fr": "Sortie officielle v1.8.23: Integration du moteur OCR ultra-rapide autonome et epuration complete des anciens modeles.",
+  "notes_en": "• Finexa Pro updated release 1.8.23.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
   "mandatory": true,
   "min_schema": 0
 }
