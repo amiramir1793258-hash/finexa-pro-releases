@@ -1,11 +1,11 @@
 {
-  "version": "1.8.24",
-  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.24/FinexaPro_SCF_Elite_v1.8.24_Setup.exe",
-  "sha256": "9c27e3d08d1e4acc692e193e8a1157faad864fe971a9814b3b122c3b425d6b3d",
-  "signature": "54c13276a6ff92853e093380361cf7f1ec783d0a3c4f48ef00139e0f05328f1edf152a6e04bb832ed41cc7076b5688fc139bc0b37a05dfc4a4c33c464cdc0008",
-  "notes": "تحديث أمني وإداري عاجل v1.8.24: ترقية إلزامية ذات أولوية قصوى، دمج محرك المسح الفوري المباشر للفواتير (High-Speed OCR) بدون استهلاك مؤقت، وإبادة جذرية لكافة المسودات القديمة.",
-  "notes_fr": "Mise a jour obligatoire prioritaire v1.8.24: Integration du moteur OCR haute performance et epuration complete.",
-  "notes_en": "• Finexa Pro updated release 1.8.24.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
+  "version": "1.8.25",
+  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.25/FinexaPro_SCF_Elite_v1.8.25_Setup.exe",
+  "sha256": "96190b09416d5aabf3282ce80ff6c2f2249c0bf44434c0784ad687fe304f56ee",
+  "signature": "9d33613b57c82004adbbddfde9e32745d831c6478bab094387a56887110e9a52207640345f7f4be6b0f2fb3b102bc224103f4d1f54105dea7d773db9c00b250c",
+  "notes": "ترقية عاجلة ذات أولوية قصوى v1.8.25: إظهار التحديث بأعلى أولوية في شاشة تسجيل الدخول والنافذة الرئيسية، تسريع المحرك الذكي للفواتير دون استهلاك، وإبادة تامة للملفات القديمة.",
+  "notes_fr": "Mise a jour prioritaire v1.8.25: Notification d'urgence au demarrage, nouveau moteur OCR ultra-rapide et securisation absolue.",
+  "notes_en": "• Finexa Pro updated release 1.8.25.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
   "mandatory": true,
   "min_schema": 0
 }
