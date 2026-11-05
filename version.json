@@ -1,11 +1,11 @@
 {
-  "version": "1.8.29",
-  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.29/FinexaPro_SCF_Elite_v1.8.29_Setup.exe",
-  "sha256": "42c032b143b45602cc5041dd633916871d9631e88bfe2903b9b59ce26a9992fc",
-  "signature": "b2dd0a244e3e667b7dbaa0eefa970596c8a27e2ba4e17273028ae3188e650f5df55d01e9c18f794ed72775d0a26acdc05b706cf0d256d30c71194bbb7fbc3c09",
-  "notes": "• إصدار فاينكسا برو المحدّث 1.8.29.\n• تحسينات وتحديثات شاملة في الأداء واستقرار النظام والمزامنة.\n• تحديثات دورية متوافقة مع المعايير المحاسبية SCF.",
-  "notes_fr": "• Version mise à jour de Finexa Pro 1.8.29.\n• Améliorations globales des performances, stabilité et synchronisation.\n• Mises à jour conformes aux normes SCF.",
-  "notes_en": "• Finexa Pro updated release 1.8.29.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
+  "version": "1.8.30",
+  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.30/FinexaPro_SCF_Elite_v1.8.30_Setup.exe",
+  "sha256": "05cf56ab8816bd8053b4d0a2f05d5ddb1f33460ada5c8b262a72e0737f2e8670",
+  "signature": "08e0f48d2793c74a0f5458212e12cae1d6055e64214019a9c29b268c550eeb0e7ac0eb65193dbe10c5753fb2525e7bf1a0099615ae0c802b0c02e19cc14ee80b",
+  "notes": "• إصدار فاينكسا برو المحدّث 1.8.30.\n• تحسينات وتحديثات شاملة في الأداء واستقرار النظام والمزامنة.\n• تحديثات دورية متوافقة مع المعايير المحاسبية SCF.",
+  "notes_fr": "• Version mise à jour de Finexa Pro 1.8.30.\n• Améliorations globales des performances, stabilité et synchronisation.\n• Mises à jour conformes aux normes SCF.",
+  "notes_en": "• Finexa Pro updated release 1.8.30.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
   "mandatory": false,
   "min_schema": 0
 }
