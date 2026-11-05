@@ -1,10 +1,10 @@
 {
   "version": "1.8.29",
   "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.29/FinexaPro_SCF_Elite_v1.8.29_Setup.exe",
-  "sha256": "f3ca71c608250bdc3668dbe93909c0a137fa3b33227f3e27e3968b7ce4dea0c1",
-  "signature": "108a223620d789704a6740880bb88bd9a9a914f7c8149a808536611d66e8b48cad1ea3e522fe6c7a565685a374db0c81babbb6d48d41182eeb678d0701a5200e",
-  "notes": "• ترقية الإصدار إلى v1.8.29 بنواة Win32 Native C++ الصرفة المتوافقة بنسبة 100% مع Windows 7 SP1 وما فوق.\n• إدراج الوثيقة كما هي 1:1 إلى إكسل ووورد.\n• سجل المحفوظات والأرشيف المستندي للمؤسسة (Vault).\n• تحسين محرك OCR والامتثال القانوني لتراخيص الطرف الثالث.",
-  "notes_fr": "• Version v1.8.29 Win32 Native C++ compatible Windows 7 SP1+.\n• Export miroir 1:1 vers Excel/Word.\n• Coffre-fort documentaire de l'entreprise (Vault).\n• Moteur OCR optimise et conformite legale.",
+  "sha256": "da8b89dde9e4f5aaaa75a53946ed41416bd5e67b3033cd1b5592285fb7b5121b",
+  "signature": "98f8d68f891b7382171ee54c5219461465687dfb6e45405f14f46be1490304a7d0a3fb7d64ce4689e39c153f82c37970b45755903c0a0e20e052d4041c90e70e",
+  "notes": "• إصدار فاينكسا برو المحدّث 1.8.29.\n• تحسينات وتحديثات شاملة في الأداء واستقرار النظام والمزامنة.\n• تحديثات دورية متوافقة مع المعايير المحاسبية SCF.",
+  "notes_fr": "• Version mise à jour de Finexa Pro 1.8.29.\n• Améliorations globales des performances, stabilité et synchronisation.\n• Mises à jour conformes aux normes SCF.",
   "notes_en": "• Finexa Pro updated release 1.8.29.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
   "mandatory": false,
   "min_schema": 0
