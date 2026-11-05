@@ -1,11 +1,11 @@
 {
-  "version": "1.8.28",
-  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.28/FinexaPro_SCF_Elite_v1.8.28_Setup.exe",
-  "sha256": "f58f468e96a5c2db7a795353472812819faf0f6ca6b59e9048273c57cd6eef4f",
-  "signature": "cc5cd0fc72c7024c218059f95a82794903a2b5ff7c998a3bbf70b0d68712aab31ac653e8045115d656cfc8e5202e288eb80dfb7c0132bdcdf90415c48d6d6d0d",
-  "notes": "اصدار رسمي فوري v1.8.28: تثبيت المعمارية الاصلية Win32 Native C++ الصافية بالكامل والغاء مكتبات Qt نهائيا، مع دعم كامل للتشغيل الذاتي على ويندوز 7 وما فوق بدون اي متطلبات",
-  "notes_fr": "Version officielle v1.8.28 : Retablissement de l architecture Win32 Native C++ pure, elimination complete de Qt et support garanti sans dependance sous Windows 7+",
-  "notes_en": "Official release v1.8.28: Pure Win32 Native C++ architecture, zero Qt dependencies, instant runtime for Windows 7 SP1 and above",
-  "mandatory": true,
+  "version": "1.8.29",
+  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.29/FinexaPro_SCF_Elite_v1.8.29_Setup.exe",
+  "sha256": "f3ca71c608250bdc3668dbe93909c0a137fa3b33227f3e27e3968b7ce4dea0c1",
+  "signature": "108a223620d789704a6740880bb88bd9a9a914f7c8149a808536611d66e8b48cad1ea3e522fe6c7a565685a374db0c81babbb6d48d41182eeb678d0701a5200e",
+  "notes": "• ترقية الإصدار إلى v1.8.29 بنواة Win32 Native C++ الصرفة المتوافقة بنسبة 100% مع Windows 7 SP1 وما فوق.\n• إدراج الوثيقة كما هي 1:1 إلى إكسل ووورد.\n• سجل المحفوظات والأرشيف المستندي للمؤسسة (Vault).\n• تحسين محرك OCR والامتثال القانوني لتراخيص الطرف الثالث.",
+  "notes_fr": "• Version v1.8.29 Win32 Native C++ compatible Windows 7 SP1+.\n• Export miroir 1:1 vers Excel/Word.\n• Coffre-fort documentaire de l'entreprise (Vault).\n• Moteur OCR optimise et conformite legale.",
+  "notes_en": "• Finexa Pro updated release 1.8.29.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
+  "mandatory": false,
   "min_schema": 0
 }
