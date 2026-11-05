@@ -1,11 +1,11 @@
 {
-  "version": "1.8.25",
-  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.25/FinexaPro_SCF_Elite_v1.8.25_Setup.exe",
-  "sha256": "96190b09416d5aabf3282ce80ff6c2f2249c0bf44434c0784ad687fe304f56ee",
-  "signature": "9d33613b57c82004adbbddfde9e32745d831c6478bab094387a56887110e9a52207640345f7f4be6b0f2fb3b102bc224103f4d1f54105dea7d773db9c00b250c",
-  "notes": "ترقية عاجلة ذات أولوية قصوى v1.8.25: إظهار التحديث بأعلى أولوية في شاشة تسجيل الدخول والنافذة الرئيسية، تسريع المحرك الذكي للفواتير دون استهلاك، وإبادة تامة للملفات القديمة.",
-  "notes_fr": "Mise a jour prioritaire v1.8.25: Notification d'urgence au demarrage, nouveau moteur OCR ultra-rapide et securisation absolue.",
-  "notes_en": "• Finexa Pro updated release 1.8.25.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
-  "mandatory": true,
+  "version": "1.8.26",
+  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.26/FinexaPro_SCF_Elite_v1.8.26_Setup.exe",
+  "sha256": "bf873696e576ebfc4fcdb734510b505ef3f67ca593f31fd89a9ad73d1e4c6cfd",
+  "signature": "ff5207c41726cf0f7a401f3bf7f43176ca3d978b94aa91a200f9774d1cdb1bda5952455be379f1fee55b6dfbfae7f84c83176c231d44cc16d97d075c47ee3907",
+  "notes": "• إطلاق محرك الذكاء المحاسبي واستخراج الفواتير والسندات المتطور (OCR & Accounting Intelligence).\n• استخراج تلقائي شامل لبيانات الفواتير: الأرقام، التواريخ، الموردين، المعرفات الجبائية (NIF, NIS, RC, AI, RIB)، وتفاصيل البنود والكميات والأسعار.\n• دعم الفواتير المعقدة متعددة نسب الرسم (TVA 9% و 19%)، حقوق الطابع الجبائي النقدي، والتصحيح التلقائي لميلان وانحراف المسح الضوئي (Deskewing).\n• توليد فوري للقيد المحاسبي المزدوج المتوازن (SCF) مع التدقيق التلقائي (380000، 445600، 645000، 401000).\n• تصدير فوري إلى جداول Excel احترافية (.xlsx) مع المعادلات الحسابية الديناميكية وإلى مستندات Word منسقة (.docx).\n• تشغيل محرك OCR بشكل مستقل مدمج (Standalone Native Runtime) دون الحاجة لأي برامج تابعة خارجية.\n• تحسينات شاملة في الأداء والسرعة وتوافقية واجهة سطح المكتب.",
+  "notes_fr": "• Intégration du moteur d'intelligence comptable et d'extraction des factures et bons (OCR & Accounting Intelligence).\n• Extraction automatique des métadonnées fiscales (NIF, NIS, RC, AI, RIB), articles, quantités et prix.\n• Prise en charge des factures multi-taux (TVA 9% et 19%), droit de timbre et redressement automatique des scans inclinés.\n• Génération instantanée de l'écriture comptable SCF équilibrée (Comptes 380, 4456, 645, 401).\n• Exportation directe vers Excel (.xlsx) avec formules dynamiques et Word (.docx).\n• Exécution autonome fermée sans dépendance externe.\n• Optimisations générales des performances et de la stabilité de l'interface bureau.",
+  "notes_en": "• Finexa Pro v1.8.26 official release with OCR & Accounting Intelligence Engine.\n• Automatic parsing of invoices, tax IDs (NIF, NIS, RC, AI, RIB), line items and dynamic tax rates.\n• Automatic deskewing, noise reduction and multi-rate TVA + Stamp Duty calculations.\n• Instant generation of balanced SCF double-entry journal entries (Accounts 380, 4456, 645, 401).\n• Direct export to formatted Excel (.xlsx) with formulas and Word (.docx).\n• Fully standalone bundled runtime with no external dependencies required.\n• Comprehensive UI polish and system performance enhancements.",
+  "mandatory": false,
   "min_schema": 0
 }
