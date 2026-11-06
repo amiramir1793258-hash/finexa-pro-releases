@@ -1,11 +1,11 @@
 {
-  "version": "1.8.30",
-  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.30/FinexaPro_SCF_Elite_v1.8.30_Setup.exe",
-  "sha256": "890c872ca21bf6f9586fb4273094438de511d0183880a8de8883c638404e7f17",
-  "signature": "713a4f8a2b776c050f426fa1282bb8e8de3e3c91ca5d2d619b3f644969c07ed1b8bd0bf0e13f91042f8fc34a9e70c66a85effcae4658e41aa1d434361ea3ab0f",
-  "notes": "• إصدار فاينكسا برو المحدّث 1.8.30.\n• تحسينات وتحديثات شاملة في الأداء واستقرار النظام والمزامنة.\n• تحديثات دورية متوافقة مع المعايير المحاسبية SCF.",
-  "notes_fr": "• Version mise à jour de Finexa Pro 1.8.30.\n• Améliorations globales des performances, stabilité et synchronisation.\n• Mises à jour conformes aux normes SCF.",
-  "notes_en": "• Finexa Pro updated release 1.8.30.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
+  "version": "1.8.35",
+  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.35/FinexaPro_SCF_Elite_v1.8.35_Setup.exe",
+  "sha256": "2597da159bfd2a060b3dce93cc99d8a840aaf3157d9d62c06d6a00d1e101c9b4",
+  "signature": "d6a233c9c927131e6364a90f1a9c149320351d433ac81a8a11ceb5db93bc950610df28cbce9d24b984d55cf841f0b42fc5b1b0302f99c26503e4f3d0970c3503",
+  "notes": "إصدار رسمي v1.8.35: تفعيل التحرير المباشر السلس والخروج بالنقر خارج المربع، تعزيز تباين خطوط الجداول التناوبية في كافة الثيمات بنسبة 8% مريحة للعين، وتأمين محرك الذكاء المستندي المغلق بالكامل مع توافقية Windows 7 SP1.",
+  "notes_fr": "Version officielle v1.8.35: Édition directe in-place fluide avec sortie automatique hors-cadre, rehaussement du contraste zébré des tableaux à 8% pour tous les thèmes, et sécurisation du moteur OCR 100% binaire compatible Windows 7 SP1.",
+  "notes_en": "• Finexa Pro updated release 1.8.35.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
   "mandatory": false,
   "min_schema": 0
 }
