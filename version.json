@@ -1,11 +1,11 @@
 {
-  "version": "1.8.35",
-  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.35/FinexaPro_SCF_Elite_v1.8.35_Setup.exe",
-  "sha256": "2597da159bfd2a060b3dce93cc99d8a840aaf3157d9d62c06d6a00d1e101c9b4",
-  "signature": "d6a233c9c927131e6364a90f1a9c149320351d433ac81a8a11ceb5db93bc950610df28cbce9d24b984d55cf841f0b42fc5b1b0302f99c26503e4f3d0970c3503",
-  "notes": "إصدار رسمي v1.8.35: تفعيل التحرير المباشر السلس والخروج بالنقر خارج المربع، تعزيز تباين خطوط الجداول التناوبية في كافة الثيمات بنسبة 8% مريحة للعين، وتأمين محرك الذكاء المستندي المغلق بالكامل مع توافقية Windows 7 SP1.",
-  "notes_fr": "Version officielle v1.8.35: Édition directe in-place fluide avec sortie automatique hors-cadre, rehaussement du contraste zébré des tableaux à 8% pour tous les thèmes, et sécurisation du moteur OCR 100% binaire compatible Windows 7 SP1.",
-  "notes_en": "• Finexa Pro updated release 1.8.35.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
+  "version": "1.8.36",
+  "url": "https://github.com/amiramir1793258-hash/finexa-pro-releases/releases/download/v1.8.36/FinexaPro_SCF_Elite_v1.8.36_Setup.exe",
+  "sha256": "4c1e0cb4439ab3160158383746b37f20dc94d9ee15f93161442d1000909807d1",
+  "signature": "08cacde71e8d63a055d28bae5e8d7d1c2853dd237711684d3e15244ec35492c557370f538b23bd0710eacd7a0b94af178d7af506c4cea8a936139ff16c27a200",
+  "notes": "إصدار v1.8.36: حجب كامل لنوافذ التيرمينال والكونسول أثناء مسح وتحليل الفواتير، عمل صامت وسريع في الذاكرة الحية 100%، وتوافق تام مع أنظمة ويندوز 7 وما فوق.",
+  "notes_fr": "Version v1.8.36: Suppression totale des fenetres de terminal lors du scan et de l analyse des factures, execution 100% silencieuse en memoire vive et compatibilite Windows 7 SP1+.",
+  "notes_en": "• Finexa Pro updated release 1.8.36.\n• Comprehensive performance, stability and synchronization enhancements.\n• Full compliance with official SCF accounting standards.",
   "mandatory": false,
   "min_schema": 0
 }
